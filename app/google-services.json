@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "987318625477",
+    "firebase_url": "https://dndlproject.firebaseio.com",
+    "project_id": "dndlproject",
+    "storage_bucket": "dndlproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987318625477:android:6c7f465ca68ddde8",
+        "android_client_info": {
+          "package_name": "com.example.swetha.dndlconstructions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987318625477-moj2rkp98shhp4p8jsd8gje23s3po34a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7MASla3-0AVYDlOPUtvwHYHoh0MpnDUo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
